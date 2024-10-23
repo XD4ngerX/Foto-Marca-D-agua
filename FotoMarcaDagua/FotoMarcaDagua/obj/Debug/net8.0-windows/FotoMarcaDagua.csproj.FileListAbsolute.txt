@@ -1,0 +1,16 @@
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\bin\Debug\net8.0-windows\FotoMarcaDagua.exe
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\bin\Debug\net8.0-windows\FotoMarcaDagua.deps.json
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\bin\Debug\net8.0-windows\FotoMarcaDagua.runtimeconfig.json
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\bin\Debug\net8.0-windows\FotoMarcaDagua.dll
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\bin\Debug\net8.0-windows\FotoMarcaDagua.pdb
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\FotoMarcaDagua.Form1.resources
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\FotoMarcaDagua.csproj.GenerateResource.cache
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\FotoMarcaDagua.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\FotoMarcaDagua.AssemblyInfoInputs.cache
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\FotoMarcaDagua.AssemblyInfo.cs
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\FotoMarcaDagua.csproj.CoreCompileInputs.cache
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\FotoMarcaDagua.dll
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\refint\FotoMarcaDagua.dll
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\FotoMarcaDagua.pdb
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\FotoMarcaDagua.genruntimeconfig.cache
+D:\Desktop\Programando\ProjetoCS\FotoMarcaDagua\FotoMarcaDagua\obj\Debug\net8.0-windows\ref\FotoMarcaDagua.dll
